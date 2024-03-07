@@ -1,0 +1,58 @@
+{
+	"pages": [
+		{
+		    "path" : "pages/index/index",
+		    "style": {
+				"navigationStyle": "custom"
+		    }
+		},
+		{
+		    "path" : "pages/dati/index",
+		    "style": {
+				"navigationStyle": "custom"
+		    }
+		},
+		{
+		    "path" : "pages/about/about",
+		    "style": {
+				"navigationBarTitleText": ""
+		    }
+		},
+		{
+		    "path" : "pages/shop/select",
+		    "style": {
+				"navigationBarTitleText": "选择门店"
+		    }
+		},
+		{
+		    "path" : "pages/dingzuo/submit",
+		    "style": {
+				"navigationBarTitleText": "填写订座信息"
+		    }
+		},
+		{
+		    "path" : "pages/dingzuo/success",
+		    "style": {
+				"navigationBarTitleText": "订座成功"
+		    }
+		},
+		{
+		    "path" : "pages/fankui/index",
+		    "style": {
+				"navigationBarTitleText": "吐个槽"
+		    }
+		},
+		{
+		    "path" : "pages/fankui/add",
+		    "style": {
+				"navigationBarTitleText": "吐个槽"
+		    }
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}
